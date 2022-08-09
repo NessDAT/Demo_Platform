@@ -214,9 +214,10 @@ if selected == "Platform":
 				<li style='background-color:#FDF7E4;color:#F35106;display:inline-block;border-radius:10px;padding-right:10px;font-size:14px;float:left'>Loan Defaulting</li>\
 			</ul>\
 			</div>\
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\
+			<p>This directory contains use cases from the Finance sector</p>\
+			<a href='https://nessdat-financedemo-finance-l4zmjm.streamlitapp.com/'>\
 			<button class='t1'style='background-color:#F35106;color:white; border:None;border-radius:10px;\
-			padding:15px;min-height:30px;min-width: 120px;' type='button'>\
+			padding:15px;min-height:30px;min-width: 120px;' type='button'></a>\
 			DEMO<i class='bi bi-chevron-double-right'></i></button>\
 			</center></div>",
 			unsafe_allow_html=True)
@@ -235,7 +236,7 @@ if selected == "Platform":
 				<li style='background-color:#FDF7E4;color:#F35106;display:inline-block;border-radius:10px;padding-right:10px;font-size:14px;float:left'>Crop Disease Detection</li>\
 			</ul>\
 			</div>\
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\
+			<p>This directory contains use cases from the Agriculture sector</p>\
 			<a href='https://vanessaattafynn-agric-demo-4aic4f.streamlitapp.com/'>\
 			<button class='t1'style='background-color:#F35106;color:white; border:None;border-radius:10px;\
 			padding:15px;min-height:30px;min-width: 120px;' type='button'>\
@@ -258,8 +259,8 @@ if selected == "Platform":
 				<li style='background-color:#FDF7E4;color:#F35106;display:inline-block;border-radius:10px;padding-right:10px;font-size:14px;float:left'>Market Basket Analysis</li>\
 			</ul>\
 			</div>\
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\
-			<a href='https://vanessaattafynn-marketing-n-retail-ecom-vkejnj.streamlitapp.com/'>\
+			<p>This directory contains use cases from the Marketing, Retail & E-commerce sectors</p>\
+			<a href='https://nessdat-marketing-n-retail-ecom-2f8tb7.streamlitapp.com/'>\
 			<button class='t1'style='background-color:#F35106;color:white; border:None;border-radius:10px;\
 			padding:15px;min-height:30px;min-width: 120px;' type='button'>\
 			DEMO<i class='bi bi-chevron-double-right'></i></button></a>\
@@ -288,7 +289,7 @@ if selected == "Platform":
 				<li style='background-color:#FDF7E4;color:#F35106;display:inline-block;border-radius:10px;padding-right:10px;font-size:14px;float:left'>Recommendations</li>\
 			</ul>\
 			</div>\
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\
+			<p>This directory contains use cases from the Health sector</p>\
 			<button class='t1'style='background-color:#F35106;color:white; border:None;border-radius:10px;\
 			padding:15px;min-height:30px;min-width: 120px;' type='button'>\
 			DEMO<i class='bi bi-chevron-double-right'></i></button>\
@@ -311,7 +312,7 @@ if selected == "Platform":
 				<li style='background-color:#FDF7E4;color:#F35106;display:inline-block;border-radius:10px;padding-right:10px;font-size:14px;float:left'>Performace Prediction</li>\
 			</ul>\
 			</div>\
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\
+			<p>This directory contains use cases in the Education sector</p>\
 			<button class='t1'style='background-color:#F35106;color:white; border:None;border-radius:10px;\
 			padding:15px;min-height:30px;min-width: 120px;' type='button'>\
 			DEMO<i class='bi bi-chevron-double-right'></i></button>\
@@ -334,7 +335,7 @@ if selected == "Platform":
 				<li style='background-color:#FDF7E4;color:#F35106;display:inline-block;border-radius:10px;padding-right:10px;font-size:14px;float:left'></li>\
 			</ul>\
 			</div>\
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\
+			<p>This directory contains use cases and other projects of interest</p>\
 			<button class='t1'style='background-color:#F35106;color:white; border:None;border-radius:10px;\
 			padding:15px;min-height:30px;min-width: 120px;' type='button'>\
 			DEMO<i class='bi bi-chevron-double-right'></i></button>\
