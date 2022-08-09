@@ -215,10 +215,10 @@ if selected == "Platform":
 			</ul>\
 			</div>\
 			<p>This directory contains use cases from the Finance sector</p>\
-			<a href='https://nessdat-marketing-n-retail-ecom-2f8tb7.streamlitapp.com/'>\
+			<a href='https://nessdat-financedemo-finance-l4zmjm.streamlitapp.com/'>\
 			<button class='t1'style='background-color:#F35106;color:white; border:None;border-radius:10px;\
-			padding:15px;min-height:30px;min-width: 120px;' type='button'></a>\
-			DEMO<i class='bi bi-chevron-double-right'></i></button>\
+			padding:15px;min-height:30px;min-width: 120px;' type='button'>\
+			DEMO<i class='bi bi-chevron-double-right'></i></button></a>\
 			</center></div>",
 			unsafe_allow_html=True)
 	#AGRICULTURE-------------------------------------------------------------------------------------------------
